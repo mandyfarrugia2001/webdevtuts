@@ -1,5 +1,5 @@
 # Introduction to Client Side Scripting
-This repository stores the content required the fuse client-side web technologies into a single web application. Web frameworks such as Bootstrap will be taken into consideration if time permits.
+This repository stores the content required to fuse client-side web technologies into a single web application. Web frameworks such as Bootstrap will be taken into consideration if time permits.
 
 <h2>About me</h2>
 As a 19-year old software development enthusiast, I experiment with Java, C#, Unity, HTML, CSS, JavaScript, jQuery, PHP and SQL. I acquired the Diploma in IT (MQF Level 3) in February 2019 where I familiarized myself with website design and development and C# (mainly Windows Forms and Console .NET Framework). I am currently following my second and last year of the Advanced Diploma in IT (Software Development).
